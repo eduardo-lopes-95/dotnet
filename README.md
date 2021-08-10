@@ -1,6 +1,6 @@
-"#Aprendendo dotnet" 
+# Aprendendo dotnet
 
-##Assuntos visto até agora:
+## Assuntos vistos até agora:
 
 - [Comandos dotnet] = dotnet run, dotnet new console
 - [variaveis] - var i = 10 (tipo implicito) / int i = 10 (tipo explicito)
