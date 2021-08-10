@@ -1,9 +1,4 @@
 "#Aprendendo dotnet" 
-https://img.shields.io/github/repo-size/eduardo-lopes-95/dotnet?style=for-the-badge
-
-:point_right: https://img.shields.io/github/stars/eduardo-lopes-95/dotnet?style=social
-
-https://img.shields.io/github/languages/count/eduardo-lopes-95/dotnet?style=for-the-badge
 
 ##Assuntos visto até agora:
 
