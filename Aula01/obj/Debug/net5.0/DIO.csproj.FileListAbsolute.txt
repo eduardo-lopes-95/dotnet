@@ -1,0 +1,16 @@
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\DIO.exe
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\DIO.deps.json
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\DIO.runtimeconfig.json
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\DIO.dll
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\ref\DIO.dll
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\bin\Debug\net5.0\DIO.pdb
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.dll
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\ref\DIO.dll
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.pdb
+C:\Users\eduar\OneDrive\Documentos\Desenvolvimento\DIO\obj\Debug\net5.0\DIO.genruntimeconfig.cache
